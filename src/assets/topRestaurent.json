@@ -1,0 +1,102 @@
+[
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/fogfnatzbqcn5nytgb7e",
+        "offer": "Items at ₹179",
+        "title": "Reddy's Gokul Brindavan",
+        "rating": 4.8,
+        "minTime": 20,
+        "maxTime": 25,
+        "name": "South Indian, Snacks, Desserts",
+        "place": "Nagpur"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/eb7f4b65-43b8-47a2-af88-6350fbe9fcd2_510859.JPG",
+        "offer": "₹125 OFF ABOVE ₹399",
+        "title": "Kwality Walls Frozen Desssert",
+        "rating": 4.7,
+        "minTime": 15,
+        "maxTime": 20,
+        "name": "Desserts, IceCream",
+        "place": "Manish Nagar"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b70c7d23d197251b7b315b7e4d8173ae",
+        "offer": "60% OFF upto ₹120",
+        "title": "Cafe Coffee Day",
+        "rating": 4.6,
+        "minTime": 20,
+        "maxTime": 25,
+        "name": "Beverages, Cafe, Snacks, Desserts",
+        "place": "Bajaj Nagar"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/614cef1b8b369f8a370d749be049a174",
+        "offer": "₹70 OFF ABOVE ₹149",
+        "title": "Airport Centre Point - Golden",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "North india, Biryani",
+        "place": "Wardha Road"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/cq70s3kimgctcvyxfrdj",
+        "offer": "20% off Above ₹900",
+        "title": "Zinq",
+        "rating": 4.2,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Pizzas, North Indian",
+        "place": "Civil Lines"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/b4817ea5bb972089f419c6f14e5a0bdd",
+        "offer": "Items at ₹149",
+        "title": "Chinese Work",
+        "rating": 4.3,
+        "minTime": 40,
+        "maxTime": 45,
+        "name": "Chinese, Asian, tibetan, Desserts",
+        "place": "Eternity Mall"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/4/d5ec0a30-2ec4-40d1-aad7-eb8d9ae67f97_758539.JPG",
+        "offer": "40% Off Upto ₹80",
+        "title": "Subway",
+        "rating": 4.3,
+        "minTime": 25,
+        "maxTime": 30,
+        "name": "Salads, Snacks, Desserts, Beverages",
+        "place": "Mate Square, Nagpur"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/37dc9e37-386f-453b-a219-ffa2c154750b_340377.JPG",
+        "offer": "40% Off Upto ₹80",
+        "title": "KFC",
+        "rating": 4.3,
+        "minTime": 20,
+        "maxTime": 25,
+        "name": "Burgers, Fast Food, Rolls & Wraps",
+        "place": "Bajaj Nagar"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/4/1/fedaee6f-c5e9-4f19-8188-93627e6d6776_185820.JPG",
+        "offer": "30% Off Upto ₹70",
+        "title": "McDonald's",
+        "rating": 4.4,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Burgers, Beverages, Cafe, Desserts",
+        "place": "Ayodhya Nagar"
+    },
+    {
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/7/9/632e30de-0cf8-4a1c-8920-735ccd8c7915_588863.jpg",
+        "offer": "50% Off Upto ₹100",
+        "title": "GetAWay-Ice Creams &...",
+        "rating": 4.6,
+        "minTime": 25,
+        "maxTime": 30,
+        "name": "Ice Cream, desserts, Healthy Food",
+        "place": "Gokulpeth"
+    }
+]
